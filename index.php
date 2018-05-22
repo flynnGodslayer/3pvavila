@@ -37,7 +37,8 @@
 		<br>
 		<br>
 		Telefono: <input type="text" name="telefono">
-		<input type="submit" value="Enviar">
+		<br>
+		<button class="btn btn-primary">Registrar</button>
 	</form>";
 
 
