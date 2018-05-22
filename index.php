@@ -34,6 +34,12 @@
 		<br>
 		Telefono: <input type="text" name="telefono">
 		<br>
+		<br>
+		Usuario: <input type="text" name="user_name">
+		</br>
+		</br>
+		Contraseña: <input type="text" name="password">
+		</br>
 		<button class="btn btn-primary">Registrar</button>
 	</form>";
 
