@@ -4,25 +4,18 @@
     <title>Hoja de creditos</title>
     <meta charset="UTF-8">
     <link href="css/creditos.css" type="text/css" rel="stylesheet">
-    <script language="JavaScript" type="text/javascript" src="peticion_ajax.php"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="peticion_ajax.js"></script>
+
   </head>
-  <body>
-    <p>Consultar registros con ajax</p>"</p>"<p>
 
-    <form name="consulta" action="" onsubmit="MostrarConsulta('peticion_ajax.php'); return false">
+<body>
 
-  <label>
+<button class="btn btn-primary">Consultar usuarios</button>
 
-  <input type="submit" value="Consultar" />
+<div id="usuarios">
+</div>
 
+</body>
 
-  </label>
-
-  </form>
-
-  <div id="resultado"></div>
-  <br>
-  <br>
-    <a href="index.php">Regresar al inicio de la pagina</a>
-  </body>
 </html>
