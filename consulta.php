@@ -19,6 +19,8 @@
 <div id="usuarios">
 </div>
 
+<a href="index.php">Regresar a index</a>
+<a href="creditos.php">Creditos de creación de pagina y de la UNAM</a>
 </body>
 
 </html>
