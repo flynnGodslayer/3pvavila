@@ -41,6 +41,8 @@
 	<div class="fb-like" data-href="https://www.facebook.com/megatenmexico/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
 
 	<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fmegatenmexico%2F&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+	
+	<a href="creditos.php">Creditos de creación de pagina y de la UNAM</a>
 
 
 </body>
