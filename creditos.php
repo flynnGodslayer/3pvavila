@@ -6,6 +6,8 @@
 		<link href="css/creditos.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
+		<img src="img/escudo.png">
+		<img src="img/logo-fca.jpg">
 		<h1>Creditos</h1>
 		poner el escudo de la unam y la fca
 	<div class="container texto_contenido" style="text-align:center;">
