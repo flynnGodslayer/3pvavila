@@ -21,15 +21,25 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<?php
-session_start();
-if ($_SESSION['pag']==1) {
-	echo "<h2>Registro de usuarios</h2><form action="alta.php" method="post"><p>Introduzca su nombre y apellidos</p>Nombre: <input type="text" name="nombre"><br><br>Apellido paterno: <input type="text" name="apaterno"><br><br>Apellido materno: <input type="text" name="amaterno"><br><br>Correo: <input type="text" name="correo"><br><br>Telefono: <input type="text" name="telefono"><input type="submit" value="Enviar"></form>";
-}
-else{
-	header("Location: login.php");
-}
-?>
+	<h2>Registro de usuarios</h2>
+	<form action="alta.php" method="post">
+		<p>Introduzca su nombre y apellidos</p>
+		Nombre: <input type="text" name="nombre">
+		<br>
+		<br>
+		Apellido paterno: <input type="text" name="apaterno">
+		<br>
+		<br>
+		Apellido materno: <input type="text" name="amaterno">
+		<br>
+		<br>
+		Correo: <input type="text" name="correo">
+		<br>
+		<br>
+		Telefono: <input type="text" name="telefono">
+		<input type="submit" value="Enviar">
+	</form>";
+
 
 	<div class="fb-like" data-href="https://www.facebook.com/megatenmexico/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
 
