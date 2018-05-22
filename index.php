@@ -1,13 +1,9 @@
 <!DOCTYPE HTML>
-<?php
-	session_start();
-	$SESSION['altas']=1;
-?>
-
 <html>
 <head>
         <meta charset="UTF-8">
         <title>Login</title>
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 	<link href="css/index.css" type="text/css" rel="stylesheet">
 
 </head>
