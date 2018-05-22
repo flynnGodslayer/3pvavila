@@ -7,31 +7,29 @@
 	</head>
 	<body>
 		<img src="img/escudo.png">
-		<img src="img/logo-fca.jpg">
+		<img src="img/logo-fca.jpg" class="fca">
 		<h1>Creditos</h1>
-		poner el escudo de la unam y la fca
 	<div class="container texto_contenido" style="text-align:center;">
 		<div class="fancy-title title-border" align="center">
-			<h3>Créditos</h3>
 		</div>
 		<strong>Mtro. Tomás Humberto Rubio Pérez</strong>
 		<br>
-		"Director"
+		<p>"Director"</p>
 		<br>
 		<br>
 		<strong>Dr. Armando Tomé González</strong>
 		<br>
-		"Secretario General"
+		<p>"Secretario General"</p>
 		<br>
 		<br>
 		<strong>Mtro. Balfred Santaella Hinojosa</strong>
 		<br>
-		"Jefe del centro de Informática"
+		<p>"Jefe del centro de Informática"</p>
 		<br>
 		<br>
 		<strong>Doc. Victor Hugo Avila Felipe</strong>
 		<br>
-		"Responsable de Diseño y Desarrollo Web"
+		<p>"Responsable de Diseño y Desarrollo Web"</p>
 		<br>
 		<br>
 	</div>

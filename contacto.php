@@ -3,7 +3,7 @@
 	<head>
 		<title>Contacto</title>
 		<meta charset="UTF-8">
-		<link href="css/contacto.css" type="text/css" rel="stylesheet">
+		<link href="css/creditos.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
 		<h1>Contacto</h1>
